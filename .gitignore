@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/ConsoleApplication1/x64/Debug
+/ConsoleApplication1/ConsoleA.a528a43f/x64/Debug
+/ConsoleApplication1/.vs/ConsoleApplication1
+/.vs
+/ConsoleApplication1/unique/x64/Debug
